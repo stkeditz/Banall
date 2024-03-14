@@ -75,7 +75,7 @@ async def start_command(event):
         "This bot is designed to ban and unban users in groups",
         buttons=[
             [Button.url("Support Channel", url="https://t.me/Dil_Ka_Ehsaas")],
-            [Button.url("Support Group", url="https://t.me/ArmanChtaz")],
+            [Button.url("Support Group", url="https://t.me/ArmanChatz")],
         ],
         file='https://graph.org/file/c2bbf86829c894cfa3b14.jpg',  # Replace with your image URL
     )
